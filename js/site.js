@@ -12,7 +12,7 @@ var AnnaPostMap = function (){
         'properties': {
           title: "{{ post.title }}",
           image: '{{post.image }}',
-          link: '{{post.url}}',
+          link: '{{site.baseurl}}{{post.url}}',
           teaser: '{{post.teaser}}',
           popupContent: '{{post.popupContent}}',
           date: '{{post.date}}'

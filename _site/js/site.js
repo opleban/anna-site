@@ -13,7 +13,7 @@ var AnnaPostMap = function (){
         'properties': {
           title: "Another of Anna's Mapperific Posts",
           image: 'https://lh3.googleusercontent.com/vAN0uXNtnDESrwn4aobVzAAKi9VpWX5sd2y1Uw5RhA=w1620-h911-no',
-          link: '/proof-of-concept/2015/06/14/another-post.html',
+          link: '/anna-site/proof-of-concept/2015/06/14/another-post.html',
           teaser: 'Food post',
           popupContent: 'true',
           date: '2015-06-14 00:00:00 -0400'
@@ -30,7 +30,7 @@ var AnnaPostMap = function (){
         'properties': {
           title: "Welcome to Anna's Mapperific Adventures!",
           image: 'https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg',
-          link: '/introductions/2015/06/13/welcome-to-annas-mapperific-adventures.html',
+          link: '/anna-site/introductions/2015/06/13/welcome-to-annas-mapperific-adventures.html',
           teaser: 'This is just a teaser, click to see more',
           popupContent: 'true',
           date: '2015-06-13 09:29:07 -0400'
