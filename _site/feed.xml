@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna&#39;s Site</title>
+    <description>Anna&#39;s Travelogue -mapified!
+</description>
+    <link>http://opleban.github.io/anna-site/anna-site/</link>
+    <atom:link href="http://opleban.github.io/anna-site/anna-site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Jun 2015 13:13:14 -0400</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2015 13:13:14 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Another of Anna&#39;s Mapperific Posts</title>
+        <description>&lt;p&gt;Here is another post. As you can see, there are two markers that appear on the map&lt;/p&gt;
+
+&lt;p&gt;More of the same only this time, there is a picture of hummus to enjoy!&lt;/p&gt;
+
+&lt;h2 id=&quot;hummus&quot;&gt;Hummus&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/vAN0uXNtnDESrwn4aobVzAAKi9VpWX5sd2y1Uw5RhA=w1620-h911-no&quot; alt=&quot;This hummus is from Israel not Cyprus&quot; title=&quot;Again not in Cyprus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Israeli Hummus, as opposed to Cypriot Hummus. I don’t have any pictures from Cyprus :(.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://opleban.github.io/anna-site/anna-site/proof-of-concept/2015/06/14/another-post.html</link>
+        <guid isPermaLink="true">http://opleban.github.io/anna-site/anna-site/proof-of-concept/2015/06/14/another-post.html</guid>
+        
+        
+        <category>proof-of-concept</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Anna&#39;s Mapperific Adventures!</title>
+        <description>&lt;p&gt;This is just a proof of concept post. There is still quite a bit of work to be done to get this ready for prime time.&lt;/p&gt;
+
+&lt;p&gt;In general a post contains the actual text content and the “metadata” content (or what we’ll call metadata) which will be stored in the “YAML” front-matter part of each post file. Lots of jargon, I know, but I’ll walk you through it step-by-step as we build this out together.&lt;/p&gt;
+
+&lt;p&gt;The main “metadata” information you’ll want to provide with each post is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lat, latitude. The latitude coordinate for the travel map.&lt;/li&gt;
+  &lt;li&gt;lng, longitude. The longitude coordinate for the travel map.&lt;/li&gt;
+  &lt;li&gt;title, post title, Your post title. This will also appear on the map popup&lt;/li&gt;
+  &lt;li&gt;teaser, post teaser, This will appear as the teaser text at the bottom of your map popup&lt;/li&gt;
+  &lt;li&gt;popupContent, a true/false value, If this is set to false, a marker will appear on the map for this post sans popup or post link. In general, you’ll want to set this to true.&lt;/li&gt;
+  &lt;li&gt;image, preview image. This is the preview image that will appear on the map. I think the easiest way to handle images on your blog will be to upload them to flickr or some other image/file hosting service and then get the image link. Just make sure whatever service you use allows “hotlinking”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;p&gt;You can upload all of your photos to Flickr and then grab the “embed” link and use that to embed images in your blog posts. You can also use the same link for the preview image that will appear on the map.&lt;/p&gt;
+
+&lt;p&gt;Here is an image:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c3.staticflickr.com/3/2848/12005505403_b4c46cc0b9_z.jpg&quot; alt=&quot;Ronda is not in Cyprus&quot; title=&quot;Ronda is not in Cyprus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is an image caption: Ronda is not in Cyprus&lt;/p&gt;
+
+&lt;p&gt;Here is another image:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c2.staticflickr.com/4/3786/12016956776_606a4a61d9_z.jpg&quot; alt=&quot;Ouled Ali is also not in Cyprus&quot; title=&quot;Ouled Ali is not in Cyrpus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ouled Ali is also not in Cyprus&lt;/p&gt;
+
+&lt;h2 id=&quot;markdown&quot;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown Docs&lt;/a&gt; for more info on Markdown Syntax.&lt;/p&gt;
+
+&lt;p&gt;Also here: &lt;a href=&quot;http://makandracards.com/makandra/6683-markdown-kramdown-examples&quot;&gt;Markdown/Kramdown examples&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h2&gt;
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on some of what’s going on behind the scenes in Jekyll.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 13 Jun 2015 09:29:07 -0400</pubDate>
+        <link>http://opleban.github.io/anna-site/anna-site/introductions/2015/06/13/welcome-to-annas-mapperific-adventures.html</link>
+        <guid isPermaLink="true">http://opleban.github.io/anna-site/anna-site/introductions/2015/06/13/welcome-to-annas-mapperific-adventures.html</guid>
+        
+        
+        <category>introductions</category>
+        
+      </item>
+    
+  </channel>
+</rss>
