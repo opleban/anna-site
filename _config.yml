@@ -4,7 +4,7 @@ email: asanton@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
   Anna's Travelogue -mapified!
 baseurl: "/anna-site"
-url: "http://opleban.github.io/anna-site" # the base hostname & protocol for your site
+url: "http://opleban.github.io" # the base hostname & protocol for your site
 umich_link: "https://www.lsa.umich.edu/ummaa/people/ci.antoniouanna_ci.detail"
 
 # Map
