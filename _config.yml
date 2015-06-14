@@ -1,6 +1,5 @@
 # Site settings
 title: Anna's Site
-github: [Repository metadata]
 email: asanton@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
   Anna's Travelogue -mapified!
@@ -14,5 +13,4 @@ map-tileset: 'https://api.tiles.mapbox.com/v4/opleban.mdj03cbc/{z}/{x}/{y}.png?a
 # Build settings
 markdown: kramdown
 
-gems: 
 

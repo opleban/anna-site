@@ -5,7 +5,7 @@ date: 2015-06-14
 categories: proof-of-concept
 lat:  34.698867
 lng:  33.025395
-image:  https://lh3.googleusercontent.com/vAN0uXNtnDESrwn4aobVzAAKi9VpWX5sd2y1Uw5RhA=w1620-h911-no
+image:  "https://lh3.googleusercontent.com/vAN0uXNtnDESrwn4aobVzAAKi9VpWX5sd2y1Uw5RhA=w1620-h911-no"
 popupContent: true
 teaser: "Food post"
 ---
