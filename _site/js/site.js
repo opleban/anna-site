@@ -92,7 +92,6 @@ AnnaPostMap.prototype._createMap = function(){
 
 AnnaPostMap.prototype._onEachFeature = function(feature, layer){
   // does this feature have a property named popupContent?
-  console.log(feature);
   if (feature.properties && feature.properties.popupContent){
     console.log(this);
     var popupContent = this._generatePopupContent(feature);
