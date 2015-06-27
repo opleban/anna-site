@@ -15,7 +15,7 @@ var AnnaPostMap = function (){
         'type': 'Feature',
         'properties': {
           title: '{{ post.title }}',
-          image: processImageLink(('{{post.image }}'),
+          image: processImageLink('{{post.image }}'),
           link: '{{site.baseurl}}{{post.url}}',
           teaser: '{{post.teaser}}',
           popupContent: '{{post.popupContent}}',

@@ -16,7 +16,7 @@ var AnnaPostMap = function (){
         'type': 'Feature',
         'properties': {
           title: 'Hello [Prose] World',
-          image: processImageLink(('{{site.baseurl}}/media/7525916300_5523c2ce9d_b.jpg'),
+          image: processImageLink('{{site.baseurl}}/media/7525916300_5523c2ce9d_b.jpg'),
           link: '/anna-site/2015/06/27/hello-prose-world.html',
           teaser: '',
           popupContent: 'false',
@@ -33,7 +33,7 @@ var AnnaPostMap = function (){
         'type': 'Feature',
         'properties': {
           title: 'Another of Anna's Mapperific Posts',
-          image: processImageLink(('https://lh3.googleusercontent.com/vAN0uXNtnDESrwn4aobVzAAKi9VpWX5sd2y1Uw5RhA=w1620-h911-no'),
+          image: processImageLink('https://lh3.googleusercontent.com/vAN0uXNtnDESrwn4aobVzAAKi9VpWX5sd2y1Uw5RhA=w1620-h911-no'),
           link: '/anna-site/proof-of-concept/2015/06/14/another-post.html',
           teaser: 'Food post',
           popupContent: 'true',
@@ -50,7 +50,7 @@ var AnnaPostMap = function (){
         'type': 'Feature',
         'properties': {
           title: 'Welcome to Anna's Mapperific Adventures!',
-          image: processImageLink(('https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg'),
+          image: processImageLink('https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg'),
           link: '/anna-site/introductions/2015/06/13/welcome-to-annas-mapperific-adventures.html',
           teaser: 'This is just a teaser, click to see more',
           popupContent: 'true',
