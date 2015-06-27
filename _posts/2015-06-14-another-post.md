@@ -15,7 +15,7 @@ teaser: null
 published: true
 author: Anna Antoniou
 tags: 
-  - participant photography
+  - team member updates
 ---
 
 Here is another post. As you can see, there are two markers that appear on the map
