@@ -3,7 +3,7 @@ layout: blog
 published: true
 title: "Hello [Prose] World"
 author: Anna Antoniou
-lat: "35.879770"
+lat: "36.79770"
 lng: "33.263356"
 tags: 
   - trekking
