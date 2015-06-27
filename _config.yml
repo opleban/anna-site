@@ -13,4 +13,58 @@ map-tileset: 'https://api.tiles.mapbox.com/v4/opleban.mdj03cbc/{z}/{x}/{y}.png?a
 # Build settings
 markdown: kramdown
 
+prose:
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_sass
+    - /css
+    - /.sass-cache
+    - feed.xml
+    - index.md
+    - Gemfile
+    - Gemfile.lock
+  rooturl: '_posts'
+  siteurl: 'http://opleban.github.io/anna-site/'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "lng"
+        field:
+          element: "text"
+          label: "Longitude"
+          placholder: "Enter Longitude Coordinates"
+      - name: "lat"
+        field:
+          element: "text"
+          label: "Latitude"
+          placholder: "Enter Latitude Coordinates"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
+          options:
+            - name: "Trekking"
+              value: "trekking"
+            - name: "Interviews"
+              value: "interviews"
+            - name: "Participant Photography"
+              value: "participant photography"
+            - name: "Team Member Updates"
+              value: "team member updates"
+      - name: "author"
+        element: "text"
+        label: "author"
+        value: "Anna Antoniou"
+        placeholder: "Πώς σε λένε?"
 
