@@ -47,6 +47,11 @@ prose:
           element: "text"
           label: "Latitude"
           placholder: "Enter Latitude Coordinates"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Preview Image"
+          placeholder: "Enter the a link to your preview image"
       - name: "tags"
         field:
           element: "multiselect"
@@ -68,4 +73,3 @@ prose:
           label: "author"
           value: "Anna Antoniou"
           placeholder: "Πώς σε λένε?"
-
