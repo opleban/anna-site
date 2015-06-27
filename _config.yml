@@ -63,8 +63,9 @@ prose:
             - name: "Team Member Updates"
               value: "team member updates"
       - name: "author"
-        element: "text"
-        label: "author"
-        value: "Anna Antoniou"
-        placeholder: "Πώς σε λένε?"
+        field:
+          element: "text"
+          label: "author"
+          value: "Anna Antoniou"
+          placeholder: "Πώς σε λένε?"
 
