@@ -15,6 +15,7 @@ teaser: null
 published: true
 author: Anna Antoniou
 tags: 
+  - trekking
   - team member updates
 ---
 
