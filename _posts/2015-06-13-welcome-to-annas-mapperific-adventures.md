@@ -1,14 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Anna's Mapperific Adventures!"
-date: 2015-06-13 13:29:07
+title: "Welcome to Anna's Mapperific Adventures!"
+date: {}
 categories: introductions
-lat:  35.078770
-lng:  33.263956
-image:  "https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg"
+lat: 
+  - 35.07877
+  - "35.07877"
+lng: 
+  - 33.263956
+  - "33.263956"
+image: "https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg"
 popupContent: true
-teaser: "This is just a teaser, click to see more"
+teaser: null
+published: true
+author: Anna Antoniou
 ---
+
 This is just a proof of concept post. There is still quite a bit of work to be done to get this ready for prime time.
 
 In general a post contains the actual text content and the "metadata" content (or what we'll call metadata) which will be stored in the "YAML" front-matter part of each post file. Lots of jargon, I know, but I'll walk you through it step-by-step as we build this out together.
