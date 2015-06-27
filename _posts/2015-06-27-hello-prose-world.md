@@ -8,7 +8,10 @@ lng: "33.263356"
 tags: 
   - trekking
 image: "https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg"
+popupContent: false
+teaser: "This is the teaser text!"
 ---
+
 
 
 ## Its a PROSE WORLD
