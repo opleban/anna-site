@@ -27,6 +27,7 @@ prose:
     - Gemfile.lock
   rooturl: '_posts'
   siteurl: 'http://opleban.github.io/anna-site/'
+  media: 'media'
   metadata:
     _posts:
       - name: "layout"
