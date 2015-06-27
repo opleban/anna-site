@@ -1,16 +1,17 @@
 ---
 layout: post
-published: false
+published: true
 title: Proof of Concept
 author: Ori Pleban
 popupContent: true
-teaser: This is a proof of concept.
+teaser: null
 lng: "33.263956"
 lat: "35.07877"
 image: "https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg"
 tags: 
   - interviews
 ---
+
 
 
 This is just a proof of concept post. There is still quite a bit of work to be done to get this ready for prime time.
