@@ -69,7 +69,7 @@ var AnnaPostMap = function (){
   this._createMap();
 }
 
-function processImageLink = function(imageLink){
+function processImageLink(imageLink){
   console.log(imageLink.replace(SITE_PROP_LIB[baseURL], '/anna-site'));
   return imageLink.replace(SITE_PROP_LIB[baseurl], '/anna-site');
 }
