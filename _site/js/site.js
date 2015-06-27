@@ -16,9 +16,9 @@ var AnnaPostMap = function (){
         'type': 'Feature',
         'properties': {
           title: Hello [Prose] World,
-          image: processImageLink(('https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg'),
+          image: processImageLink(('{{site.baseurl}}/media/7525916300_5523c2ce9d_b.jpg'),
           link: '/anna-site/2015/06/27/hello-prose-world.html',
-          teaser: 'This is the teaser text!',
+          teaser: '',
           popupContent: 'false',
           date: '2015-06-27 00:00:00 -0400'
         },
@@ -70,6 +70,7 @@ var AnnaPostMap = function (){
 }
 
 function processImageLink = function(imageLink){
+  console.log(imageLink.replace(SITE_PROP_LIB[baseURL], ''));
   return imageLink.replace(SITE_PROP_LIB[baseURL], '');
 }
 

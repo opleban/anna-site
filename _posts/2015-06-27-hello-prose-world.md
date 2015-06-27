@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 published: true
 title: "Hello [Prose] World"
 author: Anna Antoniou

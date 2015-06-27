@@ -6,8 +6,8 @@
 </description>
     <link>http://opleban.github.io/anna-site/</link>
     <atom:link href="http://opleban.github.io/anna-site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 15:32:02 -0400</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 15:32:02 -0400</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2015 15:35:30 -0400</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 15:35:30 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;p&gt;This is an example of a new post using Prose.io. Using their friendly UI I was able to easily create a new post. I can also easily insert images by draggind and droppin them on the screen, like the ones you see below:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/anna-site/_posts/7525916300_5523c2ce9d_b.jpg&quot; alt=&quot;7525916300_5523c2ce9d_b.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/anna-site/media/7525916300_5523c2ce9d_b.jpg&quot; alt=&quot;7525916300_5523c2ce9d_b.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/anna-site/_posts/IMG_7255.JPG&quot; alt=&quot;IMG_7255.JPG&quot; /&gt;&lt;/p&gt;
 
