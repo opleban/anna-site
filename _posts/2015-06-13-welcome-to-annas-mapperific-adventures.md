@@ -13,6 +13,7 @@ author: Anna Antoniou
 ---
 
 
+
 This is just a proof of concept post. There is still quite a bit of work to be done to get this ready for prime time.
 
 In general a post contains the actual text content and the "metadata" content (or what we'll call metadata) which will be stored in the "YAML" front-matter part of each post file. Lots of jargon, I know, but I'll walk you through it step-by-step as we build this out together.
