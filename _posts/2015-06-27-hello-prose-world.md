@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: "Hello [Prose] World"
 author: Anna Antoniou
 lat: "35.079770"
@@ -9,6 +9,7 @@ tags:
   - trekking
 image: "https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg"
 ---
+
 
 ## Its a PROSE WORLD
  
@@ -19,4 +20,3 @@ This is an example of a new post using Prose.io. Using their friendly UI I was a
 ![IMG_7255.JPG]({{site.baseurl}}/_posts/IMG_7255.JPG)
  
 When you drag-and-drop an image on the screen it automagically uploads the file to your "Media" directory and then includes a properly formatted link in the post to ensure that it renders correctly.
- 
