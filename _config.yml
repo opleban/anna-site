@@ -73,3 +73,12 @@ prose:
           label: "author"
           value: "Anna Antoniou"
           placeholder: "Πώς σε λένε?"
+      - name: "popupContent"
+        field:
+          element: "checkbox"
+          label: "Map popup?"
+      - name: "teaser"
+        field:
+          element: "textarea"
+          label: "Post Teaser"
+          placeholder: "Enter the teaser text you'd like to appear on the map pop up"
