@@ -7,10 +7,11 @@ lat: "34.79770"
 lng: "33.263356"
 tags: 
   - trekking
-image: "https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg"
+image: "{{site.baseurl}}/media/7525916300_5523c2ce9d_b.jpg"
 popupContent: false
-teaser: "This is the teaser text!"
+teaser: null
 ---
+
 
 
 
@@ -18,7 +19,7 @@ teaser: "This is the teaser text!"
  
 This is an example of a new post using Prose.io. Using their friendly UI I was able to easily create a new post. I can also easily insert images by draggind and droppin them on the screen, like the ones you see below:
  
-![7525916300_5523c2ce9d_b.jpg]({{site.baseurl}}/_posts/7525916300_5523c2ce9d_b.jpg)
+![7525916300_5523c2ce9d_b.jpg]({{site.baseurl}}/media/7525916300_5523c2ce9d_b.jpg)
  
 ![IMG_7255.JPG]({{site.baseurl}}/_posts/IMG_7255.JPG)
  
