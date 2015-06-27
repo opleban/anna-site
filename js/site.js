@@ -14,7 +14,7 @@ var AnnaPostMap = function (){
       {% for post in site.posts %}{
         'type': 'Feature',
         'properties': {
-          title: {{ post.title }},
+          title: '{{ post.title }}',
           image: processImageLink(('{{post.image }}'),
           link: '{{site.baseurl}}{{post.url}}',
           teaser: '{{post.teaser}}',
