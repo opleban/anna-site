@@ -3,7 +3,7 @@
 ;{% include js/jquery.min.js %}
 
 var SITE_PROP_LIB = {
-  baseURL: {% raw %}"{{site.baseurl}}"{% endraw %}
+  baseurl: {% raw %}"{{site.baseurl}}"{% endraw %}
 }
 
 var AnnaPostMap = function (){
@@ -35,8 +35,8 @@ var AnnaPostMap = function (){
 }
 
 function processImageLink = function(imageLink){
-  console.log(imageLink.replace(SITE_PROP_LIB[baseURL], '{{site.baseURL}}'));
-  return imageLink.replace(SITE_PROP_LIB[baseURL], '{{site.baseURL}}');
+  console.log(imageLink.replace(SITE_PROP_LIB[baseURL], '{{site.baseurl}}'));
+  return imageLink.replace(SITE_PROP_LIB[baseurl], '{{site.baseurl}}');
 }
 
 AnnaPostMap.prototype._createMap = function(){
