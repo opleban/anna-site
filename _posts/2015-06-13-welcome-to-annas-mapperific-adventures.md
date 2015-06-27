@@ -3,18 +3,15 @@ layout: post
 title: "Welcome to Anna's Mapperific Adventures!"
 date: {}
 categories: introductions
-lat: 
-  - 35.07877
-  - "35.07877"
-lng: 
-  - 33.263956
-  - "33.263956"
+lat: "35.07877"
+lng: "33.263956"
 image: "https://c1.staticflickr.com/3/2848/12005505403_b4c46cc0b9_n.jpg"
 popupContent: true
 teaser: null
 published: true
 author: Anna Antoniou
 ---
+
 
 This is just a proof of concept post. There is still quite a bit of work to be done to get this ready for prime time.
 
