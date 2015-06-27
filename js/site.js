@@ -36,7 +36,7 @@ var AnnaPostMap = function (){
 
 function processImageLink(imageLink){
   console.log(imageLink.replace(SITE_PROP_LIB[baseurl], '{{site.baseurl}}'));
-  return imageLink.replace(SITE_PROP_LIB[baseurl], '{{site.baseurl}}');
+  return imageLink.replace(SITE_PROP_LIB['baseurl'], '{{site.baseurl}}');
 }
 
 AnnaPostMap.prototype._createMap = function(){
