@@ -2,6 +2,10 @@
 ---
 ;{% include js/jquery.min.js %}
 
+var SITE_PROP_LIB = {
+  baseURL: {% raw %}"{{site.baseurl}}"{% endraw %}
+}
+
 var AnnaPostMap = function (){
   this.map;
   this.data = {
@@ -10,8 +14,8 @@ var AnnaPostMap = function (){
       {% for post in site.posts %}{
         'type': 'Feature',
         'properties': {
-          title: "{{ post.title }}",
-          image: '{{post.image }}',
+          title: {{ post.title }},
+          image: processImageLink(('{{post.image }}'),
           link: '{{site.baseurl}}{{post.url}}',
           teaser: '{{post.teaser}}',
           popupContent: '{{post.popupContent}}',
@@ -30,6 +34,9 @@ var AnnaPostMap = function (){
   this._createMap();
 }
 
+function processImageLink = function(imageLink){
+  return imageLink.replace(SITE_PROP_LIB[baseURL], '{{site.baseURL}}');
+}
 
 AnnaPostMap.prototype._createMap = function(){
   this.map = L.map( 'map', {

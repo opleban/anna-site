@@ -71,9 +71,8 @@ prose:
       - name: "author"
         field:
           element: "text"
-          label: "author"
+          label: "author, Πώς σε λένε?"
           value: "Anna Antoniou"
-          placeholder: "Πώς σε λένε?"
       - name: "popupContent"
         field:
           element: "checkbox"

@@ -6,9 +6,30 @@
 </description>
     <link>http://opleban.github.io/anna-site/</link>
     <atom:link href="http://opleban.github.io/anna-site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jun 2015 14:29:24 -0400</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2015 14:29:24 -0400</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2015 15:32:02 -0400</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 15:32:02 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Hello [Prose] World</title>
+        <description>&lt;h2 id=&quot;its-a-prose-world&quot;&gt;Its a PROSE WORLD&lt;/h2&gt;
+
+&lt;p&gt;This is an example of a new post using Prose.io. Using their friendly UI I was able to easily create a new post. I can also easily insert images by draggind and droppin them on the screen, like the ones you see below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/anna-site/_posts/7525916300_5523c2ce9d_b.jpg&quot; alt=&quot;7525916300_5523c2ce9d_b.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/anna-site/_posts/IMG_7255.JPG&quot; alt=&quot;IMG_7255.JPG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you drag-and-drop an image on the screen it automagically uploads the file to your “Media” directory and then includes a properly formatted link in the post to ensure that it renders correctly.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://opleban.github.io/anna-site/2015/06/27/hello-prose-world.html</link>
+        <guid isPermaLink="true">http://opleban.github.io/anna-site/2015/06/27/hello-prose-world.html</guid>
+        
+        <category>trekking</category>
+        
+        
+      </item>
     
       <item>
         <title>Another of Anna&#39;s Mapperific Posts</title>
