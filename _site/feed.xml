@@ -6,53 +6,12 @@
 </description>
     <link>http://opleban.github.io/anna-site/</link>
     <atom:link href="http://opleban.github.io/anna-site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jun 2015 16:01:17 -0400</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2015 16:01:17 -0400</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2015 02:07:03 -0400</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2015 02:07:03 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Hello [Prose] World</title>
-        <description>&lt;h2 id=&quot;its-a-prose-world&quot;&gt;Its a PROSE WORLD&lt;/h2&gt;
-
-&lt;p&gt;This is an example of a new post using Prose.io. Using their friendly UI I was able to easily create a new post. I can also easily insert images by draggind and droppin them on the screen, like the ones you see below:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/anna-site/media/7525916300_5523c2ce9d_b.jpg&quot; alt=&quot;7525916300_5523c2ce9d_b.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/anna-site/_posts/IMG_7255.JPG&quot; alt=&quot;IMG_7255.JPG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When you drag-and-drop an image on the screen it automagically uploads the file to your “Media” directory and then includes a properly formatted link in the post to ensure that it renders correctly.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://opleban.github.io/anna-site/2015/06/27/hello-prose-world.html</link>
-        <guid isPermaLink="true">http://opleban.github.io/anna-site/2015/06/27/hello-prose-world.html</guid>
-        
-        <category>trekking</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Another of Anna&#39;s Mapperific Posts</title>
-        <description>&lt;p&gt;Here is another post. As you can see, there are two markers that appear on the map&lt;/p&gt;
-
-&lt;p&gt;More of the same only this time, there is a picture of hummus to enjoy!&lt;/p&gt;
-
-&lt;h2 id=&quot;hummus&quot;&gt;Hummus&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/vAN0uXNtnDESrwn4aobVzAAKi9VpWX5sd2y1Uw5RhA=w1620-h911-no&quot; alt=&quot;This hummus is from Israel not Cyprus&quot; title=&quot;Again not in Cyprus&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Israeli Hummus, as opposed to Cypriot Hummus. I don’t have any pictures from Cyprus :(. &lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://opleban.github.io/anna-site/proof-of-concept/2015/06/14/another-post.html</link>
-        <guid isPermaLink="true">http://opleban.github.io/anna-site/proof-of-concept/2015/06/14/another-post.html</guid>
-        
-        
-        <category>proof-of-concept</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Anna&#39;s Mapperific Adventures!</title>
+        <title>Proof of Concept</title>
         <description>&lt;p&gt;This is just a proof of concept post. There is still quite a bit of work to be done to get this ready for prime time.&lt;/p&gt;
 
 &lt;p&gt;In general a post contains the actual text content and the “metadata” content (or what we’ll call metadata) which will be stored in the “YAML” front-matter part of each post file. Lots of jargon, I know, but I’ll walk you through it step-by-step as we build this out together.&lt;/p&gt;
@@ -92,12 +51,51 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on some of what’s going on behind the scenes in Jekyll.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 13 Jun 2015 09:29:07 -0400</pubDate>
-        <link>http://opleban.github.io/anna-site/introductions/2015/06/13/welcome-to-annas-mapperific-adventures.html</link>
-        <guid isPermaLink="true">http://opleban.github.io/anna-site/introductions/2015/06/13/welcome-to-annas-mapperific-adventures.html</guid>
+        <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://opleban.github.io/anna-site/2015/06/27/proof-of-concept.html</link>
+        <guid isPermaLink="true">http://opleban.github.io/anna-site/2015/06/27/proof-of-concept.html</guid>
+        
+        <category>interviews</category>
         
         
-        <category>introductions</category>
+      </item>
+    
+      <item>
+        <title>Hello [Prose] World</title>
+        <description>&lt;h2 id=&quot;its-a-prose-world&quot;&gt;Its a PROSE WORLD&lt;/h2&gt;
+
+&lt;p&gt;This is an example of a new post using Prose.io. Using their friendly UI I was able to easily create a new post. I can also easily insert images by draggind and droppin them on the screen, like the ones you see below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/anna-site/media/7525916300_5523c2ce9d_b.jpg&quot; alt=&quot;7525916300_5523c2ce9d_b.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you drag-and-drop an image on the screen it automagically uploads the file to your “Media” directory and then includes a properly formatted link in the post to ensure that it renders correctly.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://opleban.github.io/anna-site/2015/06/27/hello-prose-world.html</link>
+        <guid isPermaLink="true">http://opleban.github.io/anna-site/2015/06/27/hello-prose-world.html</guid>
+        
+        <category>trekking</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Another Post (redux)</title>
+        <description>&lt;p&gt;Here is another post. As you can see, there are two markers that appear on the map&lt;/p&gt;
+
+&lt;p&gt;More of the same only this time, there is a picture of hummus to enjoy!&lt;/p&gt;
+
+&lt;h2 id=&quot;hummus&quot;&gt;Hummus&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/vAN0uXNtnDESrwn4aobVzAAKi9VpWX5sd2y1Uw5RhA=w1620-h911-no&quot; alt=&quot;This hummus is from Israel not Cyprus&quot; title=&quot;Again not in Cyprus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Israeli Hummus, as opposed to Cypriot Hummus. I don’t have any pictures from Cyprus :(.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://opleban.github.io/anna-site/2015/06/27/another-post-redux.html</link>
+        <guid isPermaLink="true">http://opleban.github.io/anna-site/2015/06/27/another-post-redux.html</guid>
+        
+        <category>team member updates</category>
+        
         
       </item>
     

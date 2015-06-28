@@ -12,6 +12,11 @@ map-tileset: 'https://api.tiles.mapbox.com/v4/opleban.mdj03cbc/{z}/{x}/{y}.png?a
 
 # Build settings
 markdown: kramdown
+post_tags:
+  - interviews
+  - participant photography
+  - team member updates
+  - trekking
 
 prose:
   ignore:
@@ -81,4 +86,5 @@ prose:
         field:
           element: "textarea"
           label: "Post Teaser"
-          placeholder: "Enter the teaser text you'd like to appear on the map pop up"
+          help: "The text you'd like to appear for the popup content on the map"
+          placeholder: "popup teaser text"
